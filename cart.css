@@ -1,0 +1,90 @@
+.cartTab1{
+    width: 400px;
+  
+  }
+  .cartTab1 .checkOut1{
+   
+
+    background-color: #1d1d1d;
+color: white;
+padding: 10px;
+width: 100px;
+margin-top: 50px;
+  
+  }
+  .cartTab h1{
+    padding: 20px;
+    margin: 0;
+    font-weight: 300;
+    font-size: 20px;
+  
+  }
+  .quantity .minus,.quantity .plus{
+    border-radius: 50px;
+    margin-right:10px ;
+    margin-left: 10px;
+    background-color:#1d1d1d;
+    color: white;
+  }
+   .btncart{
+
+  }
+   .btncart button{
+    cursor: pointer;
+    border: none;
+    background-color: #1d1d1d;
+    color: white;
+  }
+  .cartTab .image img{
+  
+
+  }
+  
+  
+  
+  
+  
+  .cartTab1 {
+
+  }
+  
+  .cartTab1 h1 {
+
+  }
+  
+  .ListCart1 {
+
+  }
+  
+  .item1 {
+
+  }
+  
+  .item1 .image img {
+    width: 200px;
+  }
+  
+  .item1 .name {
+
+  }
+  
+  .item1 .totalprice {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .item1 .quantity {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+  }
+  
+  .item1 .quantity button {
+    
+  }
+  
+  .item1 .quantity span.qt {
+    font-size: 16px;
+  }
+  

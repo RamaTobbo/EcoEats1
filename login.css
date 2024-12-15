@@ -1,0 +1,64 @@
+#login, #sign {
+    display: flex
+    ;
+        flex-direction: column;
+        align-content: stretch;
+        justify-content: center;
+        align-items: flex-start;
+        padding-left: 30px;
+}
+input{
+    width:407px;
+    height: 46px;
+    margin-bottom: 30px;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+h2{
+    font-size: 60px;
+}
+#backtohome{
+    margin-left: 50px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+input[type='submit']{
+    border-radius: 50px;
+    width: 100px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #1d1d1d;;
+    color: white;
+    font-weight: bold;
+}
+button:hover,#sign  button:hover{
+    background-color: black;
+}
+#forgotpassSignup{
+    display: flex
+    ;
+        align-content: stretch;
+       
+        align-items: center;
+        flex-direction: column;
+}
+#forgotpassSignup p{
+    font-size: 15px;
+    color: #1d1d1d;
+}
+#forgotpassSignup a{
+    color: #1d1d1d;
+    font-size: 20px;
+}
+
+#sign  input[type='submit']{
+    border-radius: 50px;
+    width: 420px;
+    padding: 10px;
+    font-size: 15px;
+    background-color: #1d1d1d;;
+    color: white;
+    font-weight: bold;
+}
